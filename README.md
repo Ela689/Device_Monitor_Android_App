@@ -1,4 +1,4 @@
-# Device Monitor Android App
+# Device Monitor App
 
 ## 📌 Description
 Device Monitor App helps users monitor and manage the performance of their Android devices by providing detailed statistics on CPU, GPU, and memory usage, display settings management, app management, battery optimization, and performance boosting.
@@ -29,9 +29,12 @@ Device Monitor App helps users monitor and manage the performance of their Andro
 
 ### Cloning the Repository
 To clone the repository from GitHub, open a terminal and run:
+
 ```bash
 git clone https://github.com/DanielaPavlenco/Device_Monitor_App.git
 cd DeviceMonitorApp
+```
+---
 
 ## 📂 Opening the Project in Android Studio
 1. Open **Android Studio**.  
@@ -100,7 +103,8 @@ cd DeviceMonitorApp
 To allow the application to modify secure system settings, run the following ADB command **after** building and running the app:
 ```bash
 adb shell pm grant com.example.devicemonitorapp android.permission.WRITE_SECURE_SETTINGS
-
+```
+---
 ## ℹ About This Permission
 This permission allows the app to:  
 - Enable/disable developer options  
