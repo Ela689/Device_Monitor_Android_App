@@ -1,7 +1,7 @@
-# Device Monitor App
+# Device Monitor Android App
 
 ## 📌 Description
-Device Monitor App helps users monitor and manage the performance of their Android devices by providing detailed statistics on CPU, GPU, and memory usage, display settings management, app management, battery optimization, and performance boosting.
+Device Monitor Android App helps users monitor and manage the performance of their Android devices by providing detailed statistics on CPU, GPU, and memory usage, display settings management, app management, battery optimization, and performance boosting.
 
 ---
 
