@@ -31,7 +31,7 @@ Device Monitor Android App helps users monitor and manage the performance of the
 To clone the repository from GitHub, open a terminal and run:
 
 ```bash
-git clone https://github.com/DanielaPavlenco/Device_Monitor_App.git
+https://github.com/Ela689/Device_Monitor_Android_App.git
 cd DeviceMonitorApp
 ```
 ---
