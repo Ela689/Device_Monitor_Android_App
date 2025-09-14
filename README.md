@@ -125,3 +125,100 @@ This permission is highly restricted because it can affect the overall behavior 
 - Enjoy detailed monitoring and performance management for your Android device.  
 
 ---
+
+## 📲 App Preview
+
+Below are the main screens and features of the **Device Monitor Android App**:
+
+---
+
+### 🖥 Device Monitor - Home
+<img src="photos/Device Monitor.jpeg" alt="Device Monitor Home" width="300"/>  
+The welcome screen introducing the Device Monitor App.
+
+---
+
+### 📖 Introduction Page
+<img src="photos/Introduction page.jpeg" alt="Introduction Page" width="300"/>  
+Provides a quick introduction and overview of the app.
+
+---
+
+### ❓ FAQs
+<img src="photos/FAQS_1.jpeg" alt="FAQS 1" width="300"/> <img src="photos/FAQS_2.jpeg" alt="FAQS 2" width="300"/>  
+Common questions and answers for quick guidance.
+
+---
+
+### 🌍 Language Selection
+<img src="photos/Choose language.jpeg" alt="Choose Language" width="300"/>  
+Option to select the preferred language for the app.
+
+---
+
+### 📊 Management Dashboard
+<img src="photos/Management dashboard_1.jpeg" alt="Management Dashboard 1" width="300"/>  
+<img src="photos/Management dashboard_2.jpeg" alt="Management Dashboard 2" width="300"/>  
+The central dashboard showing device statistics and monitoring panels.
+
+---
+
+### ⚡ CPU & GPU Monitoring
+<img src="photos/CPU monitoring.jpeg" alt="CPU Monitoring" width="300"/>  
+<img src="photos/GPU monitoring.jpeg" alt="GPU Monitoring" width="300"/>  
+Live monitoring of processor and graphics performance.
+
+---
+
+### 🔋 Battery Management
+<img src="photos/Battery management.jpeg" alt="Battery Management" width="300"/>  
+Track battery health, charging cycles, and optimization options.
+
+---
+
+### 🚀 Performance Booster
+<img src="photos/Performance booster.jpeg" alt="Performance Booster" width="300"/>  
+Boost device speed and improve performance with one tap.
+
+---
+
+### 🖼 Display Options
+<img src="photos/Display options_1.jpeg" alt="Display Options 1" width="300"/>  
+<img src="photos/Display options_2.jpeg" alt="Display Options 2" width="300"/>  
+Control brightness, refresh rate, and screen resolution.
+
+---
+
+### 💾 Memory Monitoring
+<img src="photos/Memory monitoring_1.jpeg" alt="Memory Monitoring 1" width="300"/>  
+<img src="photos/Memory monitoring_2.jpeg" alt="Memory Monitoring 2" width="300"/>  
+Detailed statistics about memory usage and cleanup options.
+
+---
+
+### 📦 Storage Monitoring
+<img src="photos/Storage monitoring.jpeg" alt="Storage Monitoring" width="300"/>  
+Analyze storage usage and find unnecessary files.
+
+---
+
+### 📱 App Management
+<img src="photos/App management_1.jpeg" alt="App Management 1" width="300"/>  
+<img src="photos/App management_2.jpeg" alt="App Management 2" width="300"/>  
+Manage, disable, or uninstall installed apps.
+
+---
+
+### 🌐 Network Usage Stats
+<img src="photos/Network usage stats_1.jpeg" alt="Network Usage Stats 1" width="300"/>  
+<img src="photos/Network usage stats_2.jpeg" alt="Network Usage Stats 2" width="300"/>  
+Monitor real-time network usage and optimize connectivity.
+
+---
+
+### 🖥 Debug Terminal
+<img src="photos/Debug terminal.jpeg" alt="Debug Terminal" width="300"/>  
+An integrated terminal to run commands and automate tasks.
+
+---
+
